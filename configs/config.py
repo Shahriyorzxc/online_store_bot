@@ -14,7 +14,7 @@ class Config:
         self.click_token = os.getenv("CLICK_TOKEN", "defaultclicktoken")
 
     def db_laptop(self):
-        self.host = os.getenv("DB_HOST", "localhost")
-        self.user = os.getenv("DB_USER", "postgres")
-        self.db = os.getenv("DB_NAME", "laptop_db")
-        self.password = os.getenv("DB_PASSWORD", "123456")
+        self.host = os.getenv("DB_HOST", "")
+        self.user = os.getenv("DB_USER", "")
+        self.db = os.getenv("DB_NAME", "")
+        self.password = os.getenv("DB_PASSWORD", "")
