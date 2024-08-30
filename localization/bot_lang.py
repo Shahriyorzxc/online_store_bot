@@ -1,0 +1,2 @@
+cataloge = dict(uz="Catalogni tanlang📁",en="Select a Cataloge📁",ru="Выберите каталог📁")
+products_len_count = dict(uz="Qolgan maxsulotlar soni:",en="Number of remaining products:",ru="Количество оставшихся товаров:")

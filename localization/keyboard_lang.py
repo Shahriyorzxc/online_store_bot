@@ -1,0 +1,8 @@
+straight = dict(uz="🔜Oldinga", ru="🔜Вперёд", en="🔜Forward")
+to_back = dict(uz="🔙Orqaga", ru="🔙Назад", en="🔙Back")
+menu = dict(uz="🔛Bosh menuga qaytish", ru="🔛На главное меню", en="🔛Back to main menu", )
+buy_product = dict(uz="💳Sotvolish", ru="💳Купить", en="💳Buy")
+information = dict(uz="📑Batafsil",ru="📑Подробнее", en="📑Information")
+laptops = dict(uz="💻Noutbooklar", ru="💻Ноутбуки", en="💻Laptops", )
+monitors = dict(uz="🖥Monitorlar", ru="🖥Мониторы", en="🖥Monitors", )
+computers = dict(uz="🖥⌨️Computerlar", ru="🖥⌨️Компьютеры", en="🖥⌨️PCs", )
